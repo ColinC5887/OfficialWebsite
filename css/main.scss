@@ -1,0 +1,14 @@
+---
+---
+
+@charset "utf-8";
+
+// variables.less
+$theme-primary: #4D88FF;
+$theme-dark: #061A40;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "mixins",
+        "base"
+;
